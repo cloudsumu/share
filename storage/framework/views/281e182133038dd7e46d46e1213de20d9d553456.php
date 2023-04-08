@@ -1,0 +1,17 @@
+<?php $attributes = $attributes->exceptProps(['link']); ?>
+<?php foreach (array_filter((['link']), 'is_string', ARRAY_FILTER_USE_KEY) as $__key => $__value) {
+    $$__key = $$__key ?? $__value;
+} ?>
+<?php $__defined_vars = get_defined_vars(); ?>
+<?php foreach ($attributes as $__key => $__value) {
+    if (array_key_exists($__key, $__defined_vars)) unset($$__key);
+} ?>
+<?php unset($__defined_vars); ?>
+<form action="<?php echo e($link); ?>" method="POST"
+    onsubmit="return confirm('<?php echo e(__('crud.general.confirm')); ?>')">
+    <?php echo method_field('DELETE'); ?>
+    <?php echo csrf_field(); ?>
+    <button type="submit" href="" class="bg-red-400 text-white rounded-full flex w-8 h-8 justify-center items-center hover:bg-red-500 mx-1">
+        <i class="fa fa-trash"></i>
+    </button>
+</form><?php /**PATH X:\projects\2021 Cab\juneserver\resources\views/components/buttons/delete.blade.php ENDPATH**/ ?>

@@ -1,0 +1,436 @@
+[2021-09-14 00:00:52] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:01:52] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:02:52] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:03:52] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:04:52] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:05:52] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:06:52] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:07:52] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:08:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:09:52] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:10:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:11:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:12:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:13:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:14:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:15:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:16:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:17:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:18:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:19:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:20:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:21:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:22:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:23:54] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:24:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:25:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:26:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:27:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:28:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:29:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:30:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:31:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:32:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:33:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:34:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:35:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:36:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:37:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:38:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:39:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:40:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:41:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:42:53] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:43:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:44:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:45:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:46:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:47:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:48:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:49:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:50:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:51:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:52:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:53:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:54:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:55:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:56:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:57:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:58:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 00:59:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:00:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:01:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:02:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:03:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:04:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:05:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:06:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:07:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:08:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:09:47] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:10:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:11:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:12:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:13:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:14:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:15:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:16:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:17:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:18:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:19:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:20:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:21:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:22:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:23:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:24:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:25:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:26:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:27:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:28:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:29:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:30:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:31:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:32:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:33:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:34:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:35:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:36:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:37:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:38:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:39:47] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:40:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:41:46] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:42:40] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:43:39] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:44:39] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:45:39] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:46:39] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:47:39] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-09-14 01:48:39] local.ERROR: Cannot redeclare getFooter() (previously declared in X:\projects\2021 Cab\juneserver\app\helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:10) at X:\\projects\\2021 Cab\\juneserver\\app\\helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 

@@ -1,0 +1,16 @@
+[2022-12-12 00:37:37] local.ERROR: Cannot redeclare getFooter() (previously declared in /Users/thinkindragon/Development/old cab/codecanyon-TRBvQzPL-thinkin-cab-bike-book-car-bike-auto-full-custom-code/septserver/app/helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in /Users/thinkindragon/Development/old cab/codecanyon-TRBvQzPL-thinkin-cab-bike-book-car-bike-auto-full-custom-code/septserver/app/helpers.php:10) at /Users/thinkindragon/Development/old cab/codecanyon-TRBvQzPL-thinkin-cab-bike-book-car-bike-auto-full-custom-code/septserver/app/Helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2022-12-12 00:38:37] local.ERROR: Cannot redeclare getFooter() (previously declared in /Users/thinkindragon/Development/old cab/codecanyon-TRBvQzPL-thinkin-cab-bike-book-car-bike-auto-full-custom-code/septserver/app/helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in /Users/thinkindragon/Development/old cab/codecanyon-TRBvQzPL-thinkin-cab-bike-book-car-bike-auto-full-custom-code/septserver/app/helpers.php:10) at /Users/thinkindragon/Development/old cab/codecanyon-TRBvQzPL-thinkin-cab-bike-book-car-bike-auto-full-custom-code/septserver/app/Helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2022-12-12 00:39:37] local.ERROR: Cannot redeclare getFooter() (previously declared in /Users/thinkindragon/Development/old cab/codecanyon-TRBvQzPL-thinkin-cab-bike-book-car-bike-auto-full-custom-code/septserver/app/helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in /Users/thinkindragon/Development/old cab/codecanyon-TRBvQzPL-thinkin-cab-bike-book-car-bike-auto-full-custom-code/septserver/app/helpers.php:10) at /Users/thinkindragon/Development/old cab/codecanyon-TRBvQzPL-thinkin-cab-bike-book-car-bike-auto-full-custom-code/septserver/app/Helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2022-12-12 00:40:37] local.ERROR: Cannot redeclare getFooter() (previously declared in /Users/thinkindragon/Development/old cab/codecanyon-TRBvQzPL-thinkin-cab-bike-book-car-bike-auto-full-custom-code/septserver/app/helpers.php:10) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getFooter() (previously declared in /Users/thinkindragon/Development/old cab/codecanyon-TRBvQzPL-thinkin-cab-bike-book-car-bike-auto-full-custom-code/septserver/app/helpers.php:10) at /Users/thinkindragon/Development/old cab/codecanyon-TRBvQzPL-thinkin-cab-bike-book-car-bike-auto-full-custom-code/septserver/app/Helpers.php:8)
+[stacktrace]
+#0 {main}
+"} 
