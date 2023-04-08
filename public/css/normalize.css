@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    transition: 0.5s;
+}
+
+/* custom scroll bar */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+.smallScroll::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+.hideScrollbar::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #cecece;
+}
+
+/* Selection Settings */
+::selection{
+  background: rgb(0,123,255,0.3);
+}
+
+.shadow-xs {
+    box-shadow: 0 0 0 1px rgb(0 0 0 / 5%);
+}
+
+.bottom-2px {
+    bottom: 2px;
+}
