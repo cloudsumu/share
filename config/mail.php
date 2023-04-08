@@ -1,0 +1,121 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Default Mailer
+    |--------------------------------------------------------------------------
+    |
+    | This option controls the default mailer that is used to send any email
+    | messages sent by your application. Alternative mailers may be setup
+    | and used as needed; however, this mailer will be used by default.
+    |
+    */
+
+    'default' => config('constants.mail_driver', 'log'), //env('MAIL_DRIVER', 'log'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Mailer Configurations
+    |--------------------------------------------------------------------------
+    |
+    | Here you may configure all of the mailers used by your application plus
+    | their respective settings. Several examples have been configured for
+    | you and you are free to add your own as your application requires.
+    |
+    | Laravel supports a variety of mail "transport" drivers to be used while
+    | sending an e-mail. You will specify which one you are using for your
+    | mailers below. You are free to add additional mailers as required.
+    |
+    | Supported: "smtp", "sendmail", "mailgun", "ses",
+    |            "postmark", "log", "array"
+    |
+    */
+
+    'mailers' => [
+        'SMTP' => [
+            'transport' => 'smtp',
+            'host' => config('constants.mail_host', 'smtp.mailgun.org'),
+            'port' => config('constants.mail_port', 587), //env('MAIL_PORT', 587),
+            'encryption' => config('constants.mail_encryption', 'tls'), //env('MAIL_ENCRYPTION', 'tls'),
+            'username' => config('constants.mail_username'), //env('MAIL_USERNAME'),
+            'password' => config('constants.mail_password'), //env('MAIL_PASSWORD'),
+            'timeout' => null,
+            'auth_mode' => null,
+        ],
+
+        'smtp' => [
+            'transport' => 'smtp',
+            'host' => config('constants.mail_host', 'smtp.mailgun.org'),
+            'port' => config('constants.mail_port', 587), //env('MAIL_PORT', 587),
+            'encryption' => config('constants.mail_encryption', 'tls'), //env('MAIL_ENCRYPTION', 'tls'),
+            'username' => config('constants.mail_username'), //env('MAIL_USERNAME'),
+            'password' => config('constants.mail_password'), //env('MAIL_PASSWORD'),
+            'timeout' => null,
+            'auth_mode' => null,
+        ],
+
+        'ses' => [
+            'transport' => 'ses',
+        ],
+
+        'mailgun' => [
+            'transport' => 'mailgun',
+        ],
+
+        'postmark' => [
+            'transport' => 'postmark',
+        ],
+
+        'sendmail' => [
+            'transport' => 'sendmail',
+            'path' => '/usr/sbin/sendmail -bs',
+        ],
+
+        'log' => [
+            'transport' => 'log',
+            'channel' => env('MAIL_LOG_CHANNEL'),
+        ],
+
+        'array' => [
+            'transport' => 'array',
+        ],
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Global "From" Address
+    |--------------------------------------------------------------------------
+    |
+    | You may wish for all e-mails sent by your application to be sent from
+    | the same address. Here, you may specify a name and address that is
+    | used globally for all e-mails that are sent by your application.
+    |
+    */
+
+    'from' => [
+        'address' => config('constants.mail_from_address', 'hello@thinkindragon.com'), //env('MAIL_FROM_ADDRESS', 'hello@example.com'),
+        'name'    => config('constants.mail_from_name', 'Thinkin Dragon'), //env('MAIL_FROM_NAME', 'Example'),
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Markdown Mail Settings
+    |--------------------------------------------------------------------------
+    |
+    | If you are using Markdown based email rendering, you may configure your
+    | theme and component paths here, allowing you to customize the design
+    | of the emails. Or, you may simply stick with the Laravel defaults!
+    |
+    */
+
+    'markdown' => [
+        'theme' => 'default',
+
+        'paths' => [
+            resource_path('views/vendor/mail'),
+        ],
+    ],
+
+];
